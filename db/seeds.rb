@@ -4,4 +4,5 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+  Product.create(name: 'banana', price: 0.99, description:'single banana')
+  Product.create(name: 'apple', price: 1.00, description: 'red apple')
